@@ -14,3 +14,10 @@ figcaption {
 img {
   width: 100%;
 }
+a,
+a:link {
+  color: #793284;
+}
+a:hover {
+  color: #b42885;
+}
