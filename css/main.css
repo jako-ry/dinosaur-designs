@@ -2,7 +2,7 @@ html {
   background-color: #f2f1ed;
   font-family: Georgia, serif;
 }
-h1 {
+h2 {
   color: #5d8432;
   text-transform: uppercase;
 }
@@ -20,4 +20,7 @@ a:link {
 }
 a:hover {
   color: #b42885;
+}
+ul, ol {
+  list-style-type: none;
 }
