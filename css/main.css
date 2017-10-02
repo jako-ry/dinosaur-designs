@@ -3,6 +3,7 @@ html {
   font-family: Georgia, serif;
 }
 h2 {
+  font-family: 'Patua One', cursive;
   color: #5d8432;
   text-transform: uppercase;
 }
@@ -15,6 +16,7 @@ img {
   width: 100%;
 }
 a {
+  font-family: 'Patua One', cursive;
   text-decoration: none;
 }
 a,
